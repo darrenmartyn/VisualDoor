@@ -11,6 +11,7 @@
 # implementing that is left as an exercise for the reader. I've seen a few approaches, and 
 # would be interested in seeing yours.
 # There is another LPE that works only on some models which I also have removed from this.
+# Details: https://darrenmartyn.ie/2021/01/24/visualdoor-sonicwall-ssl-vpn-exploit/
 import requests
 import sys
 import telnetlib
